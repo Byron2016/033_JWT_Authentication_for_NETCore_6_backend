@@ -2,3 +2,7 @@
 >Autenticación y autorizaciones de token JWT en .Net Core 6.0 Web API
 - https://www.c-sharpcorner.com/article/jwt-token-authentication-and-authorizations-in-net-core-6-0-web-api/
 
+>Agregar paquetes
+- dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 6.0.1
+- dotnet add package Microsoft.IdentityModel.JsonWebTokens --version 6.15.0
+- dotnet add package System.IdentityModel.Tokens.Jwt --version 6.15.0
