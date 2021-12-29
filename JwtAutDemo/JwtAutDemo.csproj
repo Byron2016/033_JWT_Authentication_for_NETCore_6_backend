@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\jwt\Controllers\" />
     <Folder Include="Areas\jwt\Data\" />
     <Folder Include="Areas\jwt\Views\" />
   </ItemGroup>
