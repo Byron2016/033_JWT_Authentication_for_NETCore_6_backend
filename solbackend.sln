@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAutDemo", "JwtAutDemo\JwtAutDemo.csproj", "{CF666051-F312-4412-BF2D-0DA1FB4249A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF666051-F312-4412-BF2D-0DA1FB4249A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF666051-F312-4412-BF2D-0DA1FB4249A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF666051-F312-4412-BF2D-0DA1FB4249A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF666051-F312-4412-BF2D-0DA1FB4249A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C07F8BA-3708-4D57-B51D-13D9978D7D3E}
+	EndGlobalSection
+EndGlobal
